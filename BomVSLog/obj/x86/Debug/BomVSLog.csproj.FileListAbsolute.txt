@@ -1,0 +1,8 @@
+c:\users\uidw8018\documents\visual studio 2010\Projects\BomVSLog\BomVSLog\bin\Debug\BomVSLog.exe
+c:\users\uidw8018\documents\visual studio 2010\Projects\BomVSLog\BomVSLog\bin\Debug\BomVSLog.pdb
+c:\users\uidw8018\documents\visual studio 2010\Projects\BomVSLog\BomVSLog\obj\x86\Debug\BomVSLog.Form1.resources
+c:\users\uidw8018\documents\visual studio 2010\Projects\BomVSLog\BomVSLog\obj\x86\Debug\BomVSLog.Properties.Resources.resources
+c:\users\uidw8018\documents\visual studio 2010\Projects\BomVSLog\BomVSLog\obj\x86\Debug\BomVSLog.exe
+c:\users\uidw8018\documents\visual studio 2010\Projects\BomVSLog\BomVSLog\obj\x86\Debug\BomVSLog.pdb
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\BomVSLog\BomVSLog\obj\x86\Debug\BomVSLog.csproj.GenerateResource.Cache
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\BomVSLog\BomVSLog\obj\x86\Debug\BomVSLog.csprojResolveAssemblyReference.cache
